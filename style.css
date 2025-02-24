@@ -62,8 +62,7 @@
 /* ///////////////////////////////section1/////////////////////////////////// */
 .section1 {
   height: 50vh;
-  background: url("/kaohsiung-labor-literature/img/section1BG\ \(2\).png")
-    center/cover no-repeat;
+  background: url("./img/section1BG.png") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
