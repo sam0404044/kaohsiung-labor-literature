@@ -206,6 +206,12 @@
   right: 20px;
 }
 
+@media (max-width: 768px) {
+  .decoration-img.bottom-right {
+    display: none;
+  }
+}
+
 /* ////////////////////Section 4 - 大事年表//////////////////////// */
 .section4 {
   background: linear-gradient(to bottom, #870e0e, #860d0d);
